@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poopins,sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(155, 197, 197);
+}
+h1{
+    color: black;
+    
+    text-align: center;
+}
+#stop{
+    height: flex;
+    width: flex;
+    padding:  0 20px ;
+    background-color: blueviolet;
+    color:#ffff;
+    margin: none;
+    margin-right: 300px;
+    margin-left: 400px;
+    margin-top: 50px; 
+
+
+}
+#start {
+    height: flex;
+    width: flex;
+    padding: 0 20px;
+ background-color: #923147;
+ color: #ffff;
+ margin: none;
+ margin-left: 200px;
+ margin-right: 200px; 
+ margin-top: flex;
+ margin-bottom: flex; 
+ margin-top: flex;
+ text-align: center; 
+
+}
